@@ -1,14 +1,5 @@
-# Mini-Project: Facespace!
-
-## Goal
-
-Create a site that will serve up Facespace! Oh, and learn a little more about React, routing, Node and CSS along the way.
-
-## Setup
 
 This repository contains a frontend and a backend folder. This means that each folder is a complete environment (`package.json`, `/node_modules`). They are completely independent. You cannot reference code from one environment in the other environment.
-
-Generally speaking, the frontend will query the backend via calls to the server endpoints.
 
 ### The Frontend
 
